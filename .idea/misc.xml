@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/circle_ini.xml" value="0.126" />
+        <entry key="app/src/main/res/drawable-v24/custom_round_main_btn.xml" value="0.126" />
+        <entry key="app/src/main/res/drawable-v24/emailic.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable-v24/floating_plate.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.166" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.166" />
+        <entry key="app/src/main/res/font/cutive.xml" value="0.19583333333333333" />
+        <entry key="app/src/main/res/layout/activity_ask_coach_athlete.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_ask_doctor_patient.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_athlete_login_register_choice.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_athlete_register.xml" value="0.18" />
+        <entry key="app/src/main/res/layout/activity_coach_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_doctor_main.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_fix_appointment.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_main_athlete.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main_patient.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_patient_login_register_choice.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_patient_register.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/content_middle_heavy.xml" value="0.17083333333333334" />
+        <entry key="app/src/main/res/layout/drawer_header.xml" value="0.21" />
+        <entry key="app/src/main/res/layout/fragment_common.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/item_apt_request.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/item_disease_or_doctor.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/item_patient_apt.xml" value="0.165625" />
+        <entry key="app/src/main/res/layout/switch_layout.xml" value="0.165625" />
+        <entry key="app/src/main/res/menu/athlete_drawer_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/doctor_drawer_menu.xml" value="0.165625" />
+        <entry key="app/src/main/res/menu/my_search_menu.xml" value="0.165625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

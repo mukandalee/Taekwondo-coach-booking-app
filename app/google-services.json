@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "708646326269",
+    "firebase_url": "https://doctor-s-appointment-dcbaa-default-rtdb.firebaseio.com",
+    "project_id": "doctor-s-appointment-dcbaa",
+    "storage_bucket": "doctor-s-appointment-dcbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708646326269:android:6f00c73d036b2341475394",
+        "android_client_info": {
+          "package_name": "COM.TEST.DOCTOR_APPOINTMENT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACteF3NAqLo0Pspyd2YVpNBpuUFR28pIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708646326269:android:63344a81b7ca832d475394",
+        "android_client_info": {
+          "package_name": "com.example.kenyataekwondocoachbookingappp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACteF3NAqLo0Pspyd2YVpNBpuUFR28pIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708646326269:android:54abb217eb7e003b475394",
+        "android_client_info": {
+          "package_name": "com.mukanda.taekwondocoachbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACteF3NAqLo0Pspyd2YVpNBpuUFR28pIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708646326269:android:13758ae0f56177ab475394",
+        "android_client_info": {
+          "package_name": "com.vaibhavmojidra.doctorsappointmen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACteF3NAqLo0Pspyd2YVpNBpuUFR28pIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708646326269-v1akaedk5o280li08civsu6lgvip17ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
